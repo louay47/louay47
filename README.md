@@ -1,7 +1,7 @@
 ### Hi there 👋, I'm Louay!
 
 <a href="https://www.linkedin.com/in/louay-chatti/">
-  <img align="left" alt="Louay Chatti | Medium" width="21px" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/LinkedIn_logo_initials.png"/>
+  <img align="left" alt="Louay Chatti | Large" width="21px" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/LinkedIn_logo_initials.png"/>
 </a>
 
 <br />
