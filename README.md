@@ -7,13 +7,14 @@
 
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=louay47&theme=highcontrast&show_icons=true&count_private=true)<br />
+<br />
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=louay47&layout=compact)
 
 ## My Repos
 
 [![FantasyProClub](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=FantasyProClub&show_owner=true)](https://github.com/louay47/FantasyProClub)
 
-[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=statsfig)](https://github.com/louay47/E-nursery-JavaFX)
+[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=E-nursery-JavaFX&show_owner=true)](https://github.com/louay47/E-nursery-JavaFX)
 
 
 
