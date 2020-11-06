@@ -7,16 +7,16 @@
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/louay-chatti/">@Louay Chatti</a> 
 
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=Louay Chatti&theme=highcontrast&show_icons=true&count_private=true)
-![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=Louay Chatti&layout=compact)
+![Github stats](https://github-readme-stats.vercel.app/api?username=louay47&theme=highcontrast&show_icons=true&count_private=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=louay47&layout=compact)
 
 ## My Repos
 
-[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=vennfig&show_owner=true)](https://github.com/shinokada/vennfig)
+[![vennfig](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=FantasyProClub&show_owner=true)](https://github.com/louay47/FantasyProClub)
 
-[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
+[![statsfig](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=statsfig&show_owner=true)](https://github.com/shinokada/statsfig)
 
-[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=shinokada&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
+[![Covid 19 Stats](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=covid-19-stats&show_owner=true)](https://github.com/shinokada/covid-19-stats)
 
 
 
