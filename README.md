@@ -21,6 +21,12 @@
 
 [![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=E-nursery-JavaFX&show_owner=true)](https://github.com/louay47/E-nursery-JavaFX)
 
+[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=Device-user&show_owner=true)](https://github.com/louay47/Device-user)
+
+[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=Epodia&show_owner=true)](https://github.com/louay47/Epodia)
+
+[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=SensorSimulator&show_owner=true)](https://github.com/louay47/SensorSimulator)
+
 
 
 **Languages and Tools:**  
