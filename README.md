@@ -20,10 +20,12 @@
 
 **Languages and Tools:**  
 
-<code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/master/assets/java.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/android.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/c#.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/java.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/android.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/angular.png"></code>
+<code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/flutter.png"></code> 
+<code><img height="40" src="https://raw.githubusercontent.com/louay47/louay47/main/assets/c (1).png"></code> 
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/javascript.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/php.png"></code>
 <code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/visual-studio-code.png"></code>
-<code><img height="40" src="https://raw.githubusercontent.com/shinokada/shinokada/master/assets/vim.png"></code>  
+
