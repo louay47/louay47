@@ -17,6 +17,10 @@
 
 ## My Repos
 
+[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=Esprit-Indoor-android&show_owner=true)](https://github.com/louay47/Esprit-Indoor-android)
+
+[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=EspritIndoor-backEnd&show_owner=true)](https://github.com/louay47/EspritIndoor-backEnd)
+
 [![FantasyProClub](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=FantasyProClub&show_owner=true)](https://github.com/louay47/FantasyProClub)
 
 [![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=E-nursery-JavaFX&show_owner=true)](https://github.com/louay47/E-nursery-JavaFX)
@@ -27,9 +31,6 @@
 
 [![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=SensorSimulator&show_owner=true)](https://github.com/louay47/SensorSimulator)
 
-[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=Esprit-Indoor-android&show_owner=true)](https://github.com/louay47/Esprit-Indoor-android)
-
-[![E-nursery-JavaFX](https://github-readme-stats.vercel.app/api/pin/?username=louay47&repo=EspritIndoor-backEnd&show_owner=true)](https://github.com/louay47/EspritIndoor-backEnd)
 
 
 
